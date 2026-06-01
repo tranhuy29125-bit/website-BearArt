@@ -1,0 +1,34 @@
+{
+  "featuredCourses": [
+    {
+      "title": "HỘI HỌA CƠ BẢN",
+      "icon": "🖌️",
+      "desc": "Nắm vững kỹ thuật vẽ chì, màu nước, bố cục và ánh sáng - Nền tảng vững chắc cho mọi họa sĩ"
+    },
+    {
+      "title": "MÀU NƯỚC SÁNG TẠO",
+      "icon": "🎨",
+      "desc": "Kỹ thuật pha màu, tạo hiệu ứng chuyển sắc, vẽ phong cảnh và chân dung bằng màu nước"
+    },
+    {
+      "title": "THIẾT KẾ MỸ THUẬT SỐ",
+      "icon": "✨",
+      "desc": "Làm chủ Photoshop, Procreate, kỹ thuật vẽ kỹ thuật số và tạo tác phẩm nghệ thuật độc đáo"
+    },
+    {
+      "title": "LUYỆN THI KHỐI V - H",
+      "icon": "🎯",
+      "desc": "Chương trình luyện thi chuyên nghiệp cho khối V, H với phương pháp vẽ đột phá, đạt điểm cao"
+    },
+    {
+      "title": "KÝ HỌA & PHÁC THẢO",
+      "icon": "✏️",
+      "desc": "Rèn luyện khả năng quan sát, ghi nhanh ý tưởng và phác thảo bố cục ấn tượng trong thời gian ngắn"
+    },
+    {
+      "title": "SÁNG TÁC TRANH SỐ",
+      "icon": "🖍️",
+      "desc": "Kết hợp kỹ thuật vẽ truyền thống và công nghệ, tạo ra tác phẩm số độc đáo bằng các phần mềm chuyên nghiệp"
+    }
+  ]
+}

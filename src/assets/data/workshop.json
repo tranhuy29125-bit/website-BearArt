@@ -1,0 +1,52 @@
+{
+  "workshops": [
+    {
+      "id": 1,
+      "title": "Thiết kế đồ họa chuyên sâu",
+      "category": "thiet-ke",
+      "categoryName": "Thiết Kế",
+      "desc": "Làm chủ Photoshop, Illustrator, thiết kế sáng tạo",
+      "img": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&w=600&q=80",
+      "date": "15/06/2025",
+      "time": "09:00 - 17:00",
+      "location": "Tại trung tâm",
+      "price": "500.000"
+    },
+    {
+      "id": 2,
+      "title": "React Web App Master",
+      "category": "lap-trinh",
+      "categoryName": "Lập Trình",
+      "desc": "Xây dựng ứng dụng React chuyên nghiệp",
+      "img": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=600&q=80",
+      "date": "22/06/2025",
+      "time": "09:00 - 17:00",
+      "location": "Online",
+      "price": "800.000"
+    },
+    {
+      "id": 3,
+      "title": "Kỹ năng thuyết trình & Thuyết phục",
+      "category": "thiet-ke",
+      "categoryName": "Thiết Kế",
+      "desc": "Nâng cao kỹ năng thuyết trình chuyên nghiệp",
+      "img": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=600&q=80",
+      "date": "05/07/2025",
+      "time": "09:00 - 17:00",
+      "location": "Tại trung tâm",
+      "price": "600.000"
+    },
+    {
+      "id": 4,
+      "title": "AI & Machine Learning cơ bản",
+      "category": "lap-trinh",
+      "categoryName": "Lập Trình",
+      "desc": "Tìm hiểu về trí tuệ nhân tạo và machine learning",
+      "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=600&q=80",
+      "date": "19/07/2025",
+      "time": "09:00 - 17:00",
+      "location": "Online",
+      "price": "1.200.000"
+    }
+  ]
+}

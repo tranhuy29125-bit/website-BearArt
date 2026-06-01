@@ -1,0 +1,70 @@
+{
+  "coursesData": [
+    {
+      "name": "Hình Họa Căn Bản",
+      "level": "Cơ bản",
+      "desc": "Nắm vững hình khối, tĩnh vật, bố cục. Nền tảng vững chắc cho mọi chuyên ngành.",
+      "duration": "3 tháng",
+      "students": "245 học viên",
+      "price": 4200000,
+      "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=600",
+      "hot": true,
+      "new": false
+    },
+    {
+      "name": "Mỹ Thuật Chuyên Ngành",
+      "level": "Nâng cao",
+      "desc": "Luyện thi khối V chuyên sâu - Kiến trúc, Mỹ thuật Công nghiệp, Đồ họa.",
+      "duration": "6 tháng",
+      "students": "189 học viên",
+      "price": 7800000,
+      "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=600",
+      "hot": false,
+      "new": true
+    },
+    {
+      "name": "Luyện Thi Kiến Trúc",
+      "level": "Chuyên sâu",
+      "desc": "Phối cảnh, bố cục không gian, tư duy thiết kế - dành cho ĐH Kiến Trúc.",
+      "duration": "5 tháng",
+      "students": "312 học viên",
+      "price": 6500000,
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600",
+      "hot": true,
+      "new": false
+    },
+    {
+      "name": "Học Vẽ Online",
+      "level": "Linh hoạt",
+      "desc": "Học trực tuyến, chữa bài 1-1, phù hợp với học sinh ở xa.",
+      "duration": "Linh hoạt",
+      "students": "578 học viên",
+      "price": 3900000,
+      "image": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=600",
+      "hot": false,
+      "new": true
+    },
+    {
+      "name": "Vẽ Chân Dung & Tượng",
+      "level": "Nâng cao",
+      "desc": "Kỹ thuật vẽ chân dung, ánh sáng, bóng đổ, giải phẫu tạo hình.",
+      "duration": "4 tháng",
+      "students": "167 học viên",
+      "price": 5800000,
+      "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600",
+      "hot": false,
+      "new": false
+    },
+    {
+      "name": "Workshop Mỹ Thuật",
+      "level": "Ngắn hạn",
+      "desc": "Workshop chuyên sâu cùng họa sĩ hàng đầu, thực hành ngay.",
+      "duration": "1-2 tháng",
+      "students": "98 học viên",
+      "price": 2900000,
+      "image": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?w=600",
+      "hot": false,
+      "new": false
+    }
+  ]
+}
